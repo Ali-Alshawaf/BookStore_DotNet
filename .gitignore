@@ -1,0 +1,31 @@
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.rsuser
+*.ncrunchsolution
+*.ncrunchproject
+.vscode/
+
+# Logs and database
+*.log
+db.sqlite
+db.sqlite3
+
+# Dependency packages
+node_modules/
+packages/
+
+# ASP.NET secrets
+appsettings.Development.json
+appsettings.local.json
+secrets.json
+
+wwwroot/Images/
+
+# Environment files
+.env
+*.env
